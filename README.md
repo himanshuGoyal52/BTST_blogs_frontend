@@ -1,3 +1,12 @@
+# Submission of frontend Task by Himanshu Goyal
+
+* **Name** : Himanshu Goyal
+ * **University** : Indian Institute of Technology (Indian school of mines) , Dhanbad
+ * **Department** : Bachelor's of technology in Electrical Engineering
+ * **Email** : 20je0420@ee.iitism.ac.in / goyalhimanshu424@gmail.com
+ * **Phone** : +91-74129 72658
+ * **Addmission Number** : 20JE0420
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
